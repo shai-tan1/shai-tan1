@@ -161,27 +161,37 @@
   
 <div align="center">
 
+<div align="center">
+
 ## 🎵 Currently Vibing To
 
-<table border="0" style="background-color: #0d1117; border-radius: 12px; border: 2px solid #48cae4; padding: 15px;">
+<table>
   <tr>
-    <td width="30%" align="center">
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b27357497da93fac055742217e13" width="120" style="border-radius: 10px;"/><br>
+      <b>Yeh Dooriyan</b><br>
+      <sub>Mohit Chauhan</sub><br>
+      <sub>Love Aaj Kal • 4:53</sub><br><br>
       <a href="https://shai-tan1.github.io/music-player/">
-        <img src="https://i.scdn.co/image/ab67616d0000b27357497da93fac055742217e13" width="120" style="border-radius: 8px;" alt="Yeh Dooriyan Cover"/>
+        <img src="https://img.shields.io/badge/Live_Player-48CAE4?style=flat-square&logo=spotify" height="20"/>
+      </a>
+      <a href="https://www.jiosaavn.com/song/yeh-dooriyan/FloeehwJTgo">
+        <img src="https://img.shields.io/badge/JioSaavn-00D9FF?style=flat-square" height="20"/>
       </a>
     </td>
-    <td style="padding-left: 20px;">
-      <b style="font-size: 20px; color: #48cae4;">Yeh Dooriyan</b><br>
-      <i style="color: #ffffff; font-size: 14px;">Mohit Chauhan • Love Aaj Kal</i><br><br>
-      <a href="https://shai-tan1.github.io/music-player/">
-        <img src="https://img.shields.io/badge/▶️_Play_Live_Player-48CAE4?style=for-the-badge" alt="Play"/>
-      </a><br>
-      <span style="color: #48cae4; font-size: 12px;">🎵 Auto-rotating playlist with live timer</span>
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b273771c13c530119cfcdd84bc40" width="120" style="border-radius: 10px;"/><br>
+      <b>Namo Namo</b><br>
+      <sub>Amit Trivedi</sub><br>
+      <sub>Kedarnath • 3:48</sub><br><br>
+      <img src="https://img.shields.io/badge/Up_Next-gray?style=flat-square" height="20"/>
     </td>
   </tr>
 </table>
 
-</div>
+🎧 *Auto-rotating every 4:53 with live timer!*
+
+
 
 ### 💭 *"First, solve the problem. Then, write the code." – Annonymous*
 
