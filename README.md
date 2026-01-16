@@ -58,82 +58,50 @@
 
 <div align="center">
 
-### 🔥 LeetCode Stats
-<a href="https://leetcode.com/shai_tan-">
-<img src="https://leetcard.jacoblin.cool/shai_tan-?theme=dark&font=Recursive&ext=heatmap" width="500" alt="LeetCode Stats"/>
-</a>
-
-
-### 💻 Codeforces Performance
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<a href="https://codeforces.com/profile/shai_tan">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=shai_tan&theme=tokyonight&force_username=true&border_color=48CAE4" width="450" alt="Codeforces Stats"/>
-</a>
-</div>
-
-<br>
-
-<a href="https://codeforces.com/profile/shai_tan">
-<img src="https://codeforces-readme-stats.vercel.app/api/badge?username=shai_tan" alt="Codeforces Badge" />
-</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<br>
-
-
-
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://www.codechef.com/users/shai_tan">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Current_Rating-Check_Profile-orange?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Highest_Rating-Check_Profile-green?style=for-the-badge" />
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://leetcode.com/shai_tan-">
+        <img src="https://leetcard.jacoblin.cool/shai_tan-?theme=dark&font=Recursive&ext=heatmap" width="100%" alt="LeetCode Stats"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://codeforces.com/profile/shai_tan">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shai_tan&theme=tokyonight&force_username=true&border_color=48CAE4" width="100%" alt="Codeforces Stats"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-<br>
-
-### 📈 Combined CP Stats
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/><br>
-<b>LeetCode</b><br>
-<a href="https://leetcode.com/shai_tan-"><img src="https://img.shields.io/badge/Profile-shai__tan-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" width="60"/><br>
-<b>Codeforces</b><br>
-<a href="https://codeforces.com/profile/shai_tan"><img src="https://img.shields.io/badge/Profile-shai__tan-1f8acb?style=flat-square&logo=codeforces&logoColor=white" /></a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/chef.png" width="60"/><br>
-<b>CodeChef</b><br>
-<a href="https://www.codechef.com/users/shai_tan"><img src="https://img.shields.io/badge/Profile-shai__tan-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
-</td>
-</tr>
+<table align="center" style="border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/codeforces.png" width="30"/><br>
+      <a href="https://codeforces.com/profile/shai_tan">
+        <img src="https://img.shields.io/badge/Codeforces-shai__tan-1f8acb?style=flat-square&logo=codeforces&logoColor=white" />
+      </a><br>
+      <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=shai_tan" height="20" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="30"/><br>
+      <a href="https://leetcode.com/shai_tan-">
+        <img src="https://img.shields.io/badge/LeetCode-shai__tan--FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+      </a><br>
+      <img src="https://img.shields.io/badge/Solved-Check_Profile-FFA116?style=flat-square" height="20" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://img.icons8.com/color/48/000000/chef.png" width="30"/><br>
+      <a href="https://www.codechef.com/users/shai_tan">
+        <img src="https://img.shields.io/badge/CodeChef-shai__tan-5B4638?style=flat-square&logo=codechef&logoColor=white" />
+      </a><br>
+      <img src="https://img.shields.io/badge/Rating-Check-5B4638?style=flat-square" height="20" />
+    </td>
+  </tr>
 </table>
 
 </div>
 
 <br>
-
-
-
-<br>
-
 ## 📊 GitHub Analytics
 
 
