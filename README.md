@@ -18,13 +18,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecomm+Engineer+%40+JU;Competitive+Programming+Enthusiast;Logic+Builder+%26+Problem+Solver;Sigma+Web+Dev+Journey+%F0%9F%9A%80;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </div>
 
-<br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-wave.svg" width="100%">
-</p>
-
-<br>
 
 ## 🎯 About Me
 
@@ -39,11 +33,6 @@
 
 <br clear="right"/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-wave.svg" width="100%">
-</p>
-
-<br>
 
 ## 💻 Tech Stack
 
@@ -64,13 +53,6 @@
 
 </div>
 
-<br>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-wave.svg" width="100%">
-</p>
-
-<br>
 
 ## 🏆 Competitive Programming Dashboard
 
@@ -81,11 +63,6 @@
 <img src="https://leetcard.jacoblin.cool/shai_tan-?theme=dark&font=Recursive&ext=heatmap" width="500" alt="LeetCode Stats"/>
 </a>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-<br>
 
 ### 💻 Codeforces Performance
 
@@ -107,13 +84,7 @@
 
 <br>
 
-### 🍳 CodeChef Journey
 
-<a href="https://www.codechef.com/users/shai_tan">
-<img src="https://codechef-api.vercel.app/badges/shai_tan?format=svg" alt="CodeChef Badge" />
-</a>
-
-<br><br>
 
 <table align="center">
 <tr>
@@ -159,33 +130,16 @@
 
 <br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-wave.svg" width="100%">
-</p>
+
 
 <br>
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=48CAE4&icon_color=48CAE4&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USER&theme=tokyonight&hide_border=true&background=0D1117&stroke=48CAE4&ring=48CAE4&fire=48CAE4&currStreakLabel=48CAE4" width="49%" />
-</div>
 
-<br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=48CAE4&text_color=FFFFFF&langs_count=8" width="45%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USER&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=48CAE4&line=48CAE4&point=FFFFFF" width="52%" />
-</div>
 
-<br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-wave.svg" width="100%">
-</p>
-
-<br>
 
 ## ⚙️ Specialized Knowledge
 
@@ -215,9 +169,6 @@
 
 <br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-wave.svg" width="100%">
-</p>
 
 <br>
 
@@ -233,23 +184,16 @@
 
 <br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-wave.svg" width="100%">
-</p>
 
 <br>
 
 ## 🎯 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USER&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=shai-tan1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
 </div>
 
 <br>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-wave.svg" width="100%">
-</p>
 
 <br>
 
@@ -257,9 +201,9 @@
 
 ### 📈 Profile Statistics & Achievements
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USER&label=Profile%20Views&color=48CAE4&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USER?label=Followers&style=for-the-badge&color=48CAE4&logo=github" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USER?label=Total%20Stars&style=for-the-badge&color=48CAE4&logo=github" alt="GitHub stars" />
+<img src="https://komarev.com/ghpvc/?username=shai-tan1&label=Profile%20Views&color=48CAE4&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/shai-tan1?label=Followers&style=for-the-badge&color=48CAE4&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/shai-tan1?label=Total%20Stars&style=for-the-badge&color=48CAE4&logo=github" alt="GitHub stars" />
 
 </div>
 
@@ -267,42 +211,29 @@
 
 <div align="center">
 
-### 🎨 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-</div>
-
-<br>
-
-<div align="center">
 
 ### 🎵 Currently Vibing To
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=48cae4&bar_color_cover=true" alt="Spotify Now Playing" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=Shaunak&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=48cae4&bar_color_cover=true" alt="Spotify Now Playing" />
 
-<sub>*Connect your Spotify to show what you're listening to!*</sub>
+
 
 </div>
 
 <br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/mshibanami/mshibanami/master/assets/line-wave.svg" width="100%">
-</p>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer" />
-</div>
+
 
 <div align="center">
 
 ---
 
-### 💭 *"First, solve the problem. Then, write the code." – John Johnson*
+### 💭 *"First, solve the problem. Then, write the code." – Annonymous*
 
-**⭐ From [YOUR_GITHUB_USER](https://github.com/YOUR_GITHUB_USER) | Made with ❤️ and lots of ☕**
+**⭐ From [shai-tan1](https://github.com/shai-tan1) | Made with ❤️ and lots of ☕**
 
 </div>
