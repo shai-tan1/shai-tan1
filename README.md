@@ -5,7 +5,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaunak-samanta-87022a261/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaunaksmnt@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaunaksamanta@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shai_tan)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shai_tan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shai_tan-)
@@ -17,8 +17,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecomm+Engineer+%40+JU;Competitive+Programming+Enthusiast;Logic+Builder+%26+Problem+Solver;Sigma+Web+Dev+Journey+%F0%9F%9A%80;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </div>
-
-
 
 ## 🎯 About Me
 
@@ -32,7 +30,6 @@
 - 💡 **Philosophy**: Continuous learning and problem-solving
 
 <br clear="right"/>
-
 
 ## 💻 Tech Stack
 
@@ -52,7 +49,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
 
 ## 🏆 Competitive Programming Dashboard
 
@@ -102,12 +98,6 @@
 </div>
 
 <br>
-## 📊 GitHub Analytics
-
-
-
-
-
 
 ## ⚙️ Specialized Knowledge
 
@@ -137,9 +127,6 @@
 
 <br>
 
-
-<br>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -152,16 +139,11 @@
 
 <br>
 
-
-<br>
-
 ## 🎯 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shai-tan1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
 </div>
-
-<br>
 
 <br>
 
@@ -179,22 +161,25 @@
 
 <div align="center">
 
-
-
 ### 🎵 Currently Vibing To
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=Shaunak&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=48cae4&bar_color_cover=true" alt="Spotify Now Playing" />
-
-
+<table border="0" style="background-color: #0d1117; border-radius: 12px; border: 2px solid #48cae4; padding: 15px;">
+  <tr>
+    <td align="center">
+      <img src="https://i.scdn.co/image/ab67616d0000b27357497da93fac055742217e13" width="100" style="border-radius: 8px;" alt="Yeh Dooriyan Cover"/>
+    </td>
+    <td style="padding-left: 20px;">
+      <b style="font-size: 20px; color: #48cae4;">Yeh Dooriyan</b><br>
+      <i style="color: #ffffff; font-size: 14px;">Mohit Chauhan • Love Aaj Kal</i><br><br>
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Music/Music-Equalizer.gif" width="180" height="25" /><br>
+      <span style="color: #48cae4; font-size: 12px; font-family: monospace;">Swapping in: 10s</span>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br>
-
-
-<br>
-
-
 
 <div align="center">
 
