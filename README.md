@@ -26,10 +26,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Identity:** Undergrad at **Jadavpur University**, ETCE Class of 2027.
+- 🎓 **Education:** Junior at **Jadavpur University**, ETCE Class of 2027.
 - 🏆 **CP Journey:** Active on **Codeforces** (shai_tan), **CodeChef** (shai_tan), and **LeetCode** (shai_tan-).
-- 🛠️ **Current Projects:** Building with **C++** and exploring **Web Development** (Sigma Course).
-- 🌐 **Ambition:** GSoC 2026 Aspirant & Open Source Contributor.
+- 🌱 **Current Projects:** Building with **C++** and exploring **Web Development** (Sigma Course).
+- 🔭 **Focusing on:** Advanced Data Structures, Algorithms, and Web Development.
+- 🛠️ **Tech Stack:** C++, Python, JavaScript, Git.
 
 ---
 
@@ -65,7 +66,7 @@
 ---
 
 ### ⚙️ Specialized Knowledge
-- **Hardware:** 8085 Microprocessor, MOSFET Characteristics, Analog IC Design.
+- **Hardware:** 8085 Microprocessor.
 - **Communication:** PCM, Sampling, and Digital Modulation.
 - **Tools:** VS Code, Git/GitHub, Linux.
 
