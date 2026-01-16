@@ -164,11 +164,10 @@
 <div align="center">
 
 ## 🎵 Currently Vibing To
-
-<table>
+<table align="center">
   <tr>
     <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b27357497da93fac055742217e13" width="120" style="border-radius: 10px;"/><br>
+      <img src="./assets/yeh.jpg" width="120" style="border-radius: 10px;"/><br>
       <b>Yeh Dooriyan</b><br>
       <sub>Mohit Chauhan</sub><br>
       <sub>Love Aaj Kal • 4:53</sub><br><br>
@@ -180,7 +179,7 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b273771c13c530119cfcdd84bc40" width="120" style="border-radius: 10px;"/><br>
+      <img src="./assets/namo namo.jpg" width="120" style="border-radius: 10px;"/><br>
       <b>Namo Namo</b><br>
       <sub>Amit Trivedi</sub><br>
       <sub>Kedarnath • 3:48</sub><br><br>
@@ -188,9 +187,7 @@
     </td>
   </tr>
 </table>
-
 🎧 *Auto-rotating every 4:53 with live timer!*
-
 
 
 ### 💭 *"First, solve the problem. Then, write the code." – Annonymous*
