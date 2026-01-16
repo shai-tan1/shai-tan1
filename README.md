@@ -172,7 +172,7 @@
       <b style="font-size: 20px; color: #48cae4;">Yeh Dooriyan</b><br>
       <i style="color: #ffffff; font-size: 14px;">Mohit Chauhan • Love Aaj Kal</i><br><br>
       <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Music/Music-Equalizer.gif" width="180" height="25" /><br>
-      <span style="color: #48cae4; font-size: 12px; font-family: monospace;">Swapping in: 10s</span>
+      <span style="color: #48cae4; font-size: 12px; font-family: monospace;">Swapping to 'Namo Namo' in: 10s</span>
     </td>
   </tr>
 </table>
