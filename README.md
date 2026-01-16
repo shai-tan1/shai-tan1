@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shaunak-samanta">
+  <a href="https://www.linkedin.com/in/shaunak-samanta](https://www.linkedin.com/in/shaunak-samanta-87022a261/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8VAw3Oi7S9%2BDXvO8m09b6g%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shaunaksmnt@gmail.com">
