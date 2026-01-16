@@ -159,7 +159,7 @@
 
 <div align="center">
 
-### 🎵 Currently Vibing To
+## 🎵 Currently Vibing To
 
 <table border="0" style="background-color: #0d1117; border-radius: 12px; border: 2px solid #48cae4; padding: 15px;">
   <tr>
