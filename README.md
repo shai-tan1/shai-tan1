@@ -158,30 +158,30 @@
 <br>
 
 <div align="center">
+  
+<div align="center">
 
 ## 🎵 Currently Vibing To
 
 <table border="0" style="background-color: #0d1117; border-radius: 12px; border: 2px solid #48cae4; padding: 15px;">
   <tr>
-    <td align="center">
-      <img src="https://i.scdn.co/image/ab67616d0000b27357497da93fac055742217e13" width="100" style="border-radius: 8px;" alt="Yeh Dooriyan Cover"/>
+    <td width="30%" align="center">
+      <a href="https://shai-tan1.github.io/music-player/">
+        <img src="https://i.scdn.co/image/ab67616d0000b27357497da93fac055742217e13" width="120" style="border-radius: 8px;" alt="Yeh Dooriyan Cover"/>
+      </a>
     </td>
     <td style="padding-left: 20px;">
       <b style="font-size: 20px; color: #48cae4;">Yeh Dooriyan</b><br>
       <i style="color: #ffffff; font-size: 14px;">Mohit Chauhan • Love Aaj Kal</i><br><br>
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Music/Music-Equalizer.gif" width="180" height="25" /><br>
-      <span style="color: #48cae4; font-size: 12px; font-family: monospace;">Swapping to 'Namo Namo' in: 10s</span>
+      <a href="https://shai-tan1.github.io/music-player/">
+        <img src="https://img.shields.io/badge/▶️_Play_Live_Player-48CAE4?style=for-the-badge" alt="Play"/>
+      </a><br>
+      <span style="color: #48cae4; font-size: 12px;">🎵 Auto-rotating playlist with live timer</span>
     </td>
   </tr>
 </table>
 
 </div>
-
-<br>
-
-<div align="center">
-
----
 
 ### 💭 *"First, solve the problem. Then, write the code." – Annonymous*
 
