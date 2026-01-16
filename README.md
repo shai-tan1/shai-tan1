@@ -20,7 +20,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🎓 **Education**: Junior at **Jadavpur University**, ETCE Class of 2027
 - 🏆 **CP Journey**: Active on **Codeforces** (shai_tan), **CodeChef** (shai_tan), and **LeetCode** (shai_tan-)
@@ -56,12 +56,12 @@
 
 <table border="0">
   <tr>
-    <td width="50%" align="center">
+    <td width="30%" align="center">
       <a href="https://leetcode.com/shai_tan-">
         <img src="https://leetcard.jacoblin.cool/shai_tan-?theme=dark&font=Recursive&ext=heatmap" width="100%" alt="LeetCode Stats"/>
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="30%" align="center">
       <a href="https://codeforces.com/profile/shai_tan">
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shai_tan&theme=tokyonight&force_username=true&border_color=48CAE4" width="100%" alt="Codeforces Stats"/>
       </a>
@@ -141,9 +141,7 @@
 
 ## 🎯 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shai-tan1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
-</div>
+
 
 <br>
 
