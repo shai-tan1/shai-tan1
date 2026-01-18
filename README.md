@@ -56,12 +56,12 @@
 
 <table border="0">
   <tr>
-    <td width="30%" align="center">
+    <td width="50%" align="center">
       <a href="https://leetcode.com/shai_tan-">
-        <img src="https://leetcard.jacoblin.cool/shai_tan-?theme=dark&font=Recursive&ext=heatmap" width="100%" alt="LeetCode Stats"/>
+        <img src="https://leetcode-stats-six.vercel.app/api?username=shai_tan-&theme=dark" width="100%" alt="LeetCode Stats"/>
       </a>
     </td>
-    <td width="30%" align="center">
+    <td width="50%" align="center">
       <a href="https://codeforces.com/profile/shai_tan">
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shai_tan&theme=tokyonight&force_username=true&border_color=48CAE4" width="100%" alt="Codeforces Stats"/>
       </a>
@@ -69,24 +69,23 @@
   </tr>
 </table>
 
+<br>
+
 <table align="center" style="border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="padding: 10px;">
-      <img src="https://img.icons8.com/color/48/000000/codeforces.png" width="30"/><br>
       <a href="https://codeforces.com/profile/shai_tan">
         <img src="https://img.shields.io/badge/Codeforces-shai__tan-1f8acb?style=flat-square&logo=codeforces&logoColor=white" />
       </a><br>
       <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=shai_tan" height="20" />
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="30"/><br>
       <a href="https://leetcode.com/shai_tan-">
         <img src="https://img.shields.io/badge/LeetCode-shai__tan--FFA116?style=flat-square&logo=leetcode&logoColor=black" />
       </a><br>
       <img src="https://img.shields.io/badge/Solved-Check_Profile-FFA116?style=flat-square" height="20" />
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://img.icons8.com/color/48/000000/chef.png" width="30"/><br>
       <a href="https://www.codechef.com/users/shai_tan">
         <img src="https://img.shields.io/badge/CodeChef-shai__tan-5B4638?style=flat-square&logo=codechef&logoColor=white" />
       </a><br>
