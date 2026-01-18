@@ -186,8 +186,8 @@
     </td>
   </tr>
 </table>
-🎧 *Auto-rotating every 4:53 with live timer!*
 
+🎧 *Vibe Together*
 
 ### 💭 *"First, solve the problem. Then, write the code." – Annonymous*
 
