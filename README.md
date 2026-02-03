@@ -53,21 +53,21 @@
 ## 🏆 Competitive Programming Dashboard
 
 <div align="center">
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://leetcode.com/shai_tan-">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=shai_tan-&theme=dark" width="100%" alt="LeetCode Stats"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://codeforces.com/profile/shai_tan">
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shai_tan&theme=tokyonight&force_username=true&border_color=48CAE4" width="100%" alt="Codeforces Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <table border="0">
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://leetcode.com/shai_tan-">
+          <img src="https://leetcode.card.workers.dev/shai_tan-?theme=tokyonight&font=source-code-pro&extension=activity" width="100%" alt="LeetCode Stats"/>
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://codeforces.com/profile/shai_tan">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shai_tan&theme=tokyonight" width="100%" alt="Codeforces Stats"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
