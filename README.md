@@ -110,7 +110,7 @@
 <sub>8085 Microprocessor<br>MOSFET Design</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/signal.png" width="70"/><br>
+<img src="https://img.icons8.com/color/96/000000/radio-tower.png" width="70"/><br>
 <b>📡 Communication</b><br>
 <sub>PCM, Sampling<br>Digital Modulation</sub>
 </td>
@@ -123,8 +123,6 @@
 </table>
 
 </div>
-
-<br>
 
 ## 🐍 Contribution Snake
 
