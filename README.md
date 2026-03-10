@@ -57,7 +57,7 @@
     <tr>
       <td width="50%" valign="top">
         <a href="https://leetcode.com/shai_tan-">
-          <img src="https://leetcode.card.workers.dev/shai_tan-?theme=nord&font=source-code-pro&extension=activity" width="100%" alt="LeetCode Stats"/>
+          <img src="https://leetcard.jacoblin.cool/shai_tan-?theme=nord&font=source_code_pro&ext=activity" width="100%" alt="LeetCode Stats"/>
         </a>
       </td>
       <td width="50%" valign="top">
