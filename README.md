@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecomm+Engineer+%40+JU;Competitive+Programming+Enthusiast;Logic+Builder+%26+Problem+Solver;Sigma+Web+Dev+Journey+%F0%9F%9A%80;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecomm+Engineer+%40+JU;Competitive+Programmer;Logic+Builder+%26+Problem+Solver;Sigma+Web+Dev+Journey+%F0%9F%9A%80;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
